@@ -1,5 +1,5 @@
 /*
-¹®Á¦ : https://www.acmicpc.net/problem/4344
+problem : https://www.acmicpc.net/problem/4344
 */
 
 #include <stdio.h>
